@@ -1,2 +1,6 @@
 # app-dev
 My first repository
+ADD INFO ABOUT MY FAV MOVIES
+MOANA
+COCO
+KUNG FU PANDA
